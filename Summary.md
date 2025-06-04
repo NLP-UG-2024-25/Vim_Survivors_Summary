@@ -26,3 +26,27 @@ Key Topics
 - Introduces two key linguistic theories:
   - **Chomsky’s Generative Grammar** – language as a mental structure.
   - **Halliday’s Functional Grammar** – language as a tool for social function.
+
+---
+
+## Interaction of Semiotic Systems
+
+- **Reinforcement**: Gestures can support verbal language (e.g., pointing while saying “Put it there”).
+- **Paralinguistic Gestures**: Some gestures work independently of language (e.g., President Bush looking at his watch = boredom).
+
+---
+
+## Nature of Linguistic Signs
+
+- **Arbitrariness**: Most signs have **no inherent connection** to their meaning.
+  - Example: *window* could be *krod* — it’s arbitrary.
+- **Iconicity** (limited cases):
+  - Sound imitates meaning: *buzz*, *moo*, *loooong*
+- **Phonesthemes**: Sounds with meaning tendencies, like *-sh* in *crash*, *bash*, *slash*.
+
+---
+
+## Cross-Linguistic Variation
+
+- Onomatopoeic and iconic words differ across languages.
+- While some words are iconic, most signs remain **arbitrary across languages**.
