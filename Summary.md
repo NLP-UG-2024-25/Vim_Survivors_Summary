@@ -349,4 +349,15 @@ Understanding language ideologies involves:
 
 Both **descriptive awareness** and **prescriptive sensitivity** have their place in shaping effective communication.
 
+---
+# Theorizing About Language
 
+## 1. Diverse Linguistic Theories
+
+- Linguists have varying ideological views about language.  
+- Three main emphases:  
+  - **Competence-based theories:** Language as a mental property.  
+  - **Performance-based theories:** Language as social use.  
+  - **Combined theories:** Language as both mental and social product.
+
+---
