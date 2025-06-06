@@ -50,7 +50,48 @@ Key Topics
 
 - Onomatopoeic and iconic words differ across languages.
 - While some words are iconic, most signs remain **arbitrary across languages**.
-  
+
+---
+
+# The modes of language
+
+## 1. Three primary modes
+
+Signifiers are transmitted in human language through the following modes:
+
+- **Speech**: Primary in linguistics
+- **Writing**: Secondary in linguistics
+- **Signing**: System of communication used by individuals who are deaf
+
+---
+
+## 2. Linguistics
+
+In linguistics, speech is seen as primary because all languages are spoken (unless they’re dead, like Latin), while only some are written. 
+*Example*: Kids naturally learn to speak but need formal education to read and write. 
+However, calling speech "primary" can wrongly make writing seem less important. In reality, speech and writing serve different but **complementary purposes** - like how written contracts are preferred over oral ones due to their permanence and clarity in legal disputes.
+
+## 3. Speech vs. Writing
+
+### a. Speech: Contexts and Advantages
+
+- **Preferred in interactive, real-time settings**:
+  - Casual chats, business transactions, classroom discussions.
+
+- **Key features**:
+  - Immediate feedback: questions and clarifications happen on the spot.
+  - Visual cues: facial expressions, body language.
+  - Intonation adds emotion and emphasis (e.g., sarcasm, excitement).
+  - Produced "on-line" - spontaneous and fast.
+
+### b. Writing: Contrast with Speech:
+
+- **Lacks immediacy** - no instant feedback or reaction.
+- **Emotion and emphasis** limited to punctuation and formatting.
+- Requires **planning**, **editing**, and **time** - more deliberate and polished.
+
+---
+
 # Studying Linguistic Structure
 
 ## 1. The Structure of Language
