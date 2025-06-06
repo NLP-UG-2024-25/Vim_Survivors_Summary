@@ -248,3 +248,105 @@ Understanding language involves multiple layers:
   - Informed by social roles, relationships, and shared understanding.
 
 Both are essential for a full picture of linguistic behavior.
+
+---
+# Language and Ideology
+
+
+## 1. Prescriptivism vs. Descriptivism in Linguistics
+
+### Prescriptivism
+- Belief in fixed, correct language rules.
+- Aims to **prescribe** how people *should* speak and write.
+- Associated with **reactionary views**, linguistic nostalgia, and elitism.
+- Example: John Simon condemns language change, calling descriptive linguists a "curse."
+
+### Descriptivism
+- Objective observation of how language is actually used.
+- Avoids value judgments.
+- Example: Jean Aitchison argues that language change is **natural** and **inevitable**.
+
+---
+
+## 2. Linguistic Ideologies in Conflict
+
+### John Simon (Reactionary Prescriptivist)
+- Believes language is decaying.
+- Associates correctness with educated elites.
+- Views popular/“uneducated” usage as linguistic decline.
+
+### Jean Aitchison (Descriptivist)
+- Criticizes puristic nostalgia for a mythical “perfect” past form of language.
+- Emphasizes the **logical inconsistency** of trying to freeze language.
+
+---
+
+## 3. Verbal Hygiene
+
+- Term by **Deborah Cameron**: refers to efforts (by both experts and laypeople) to define “good” or “bad” language.
+- Both prescriptivists and descriptivists engage in verbal hygiene, though from different perspectives.
+
+---
+
+## 4. Informed vs. Reactionary Prescriptivism
+
+### Reactionary Prescriptivists
+- Emotionally charged.
+- Offer little to constructive language discussion.
+- Example: Simon's elitist divide between “educated” vs. “uneducated.”
+
+### Informed Prescriptivists
+- Can contribute positively in:
+  - Language policy.
+  - Education.
+  - Public discourse.
+- Recognize that **language norms evolve** but still have communicative and social value.
+
+---
+
+## 5. Gender and Language Change
+
+### Grammatical vs. Natural Gender
+- **Old English**: grammatical gender (arbitrary).
+  - e.g., *hand* (masculine), *pride* (feminine), *body* (neuter).
+- **Modern English**: natural gender based on biological sex.
+  - Pronouns and some job titles reflect this.
+
+### Gender-Neutral Language
+- Shift from *mailman*, *stewardess* → *mail carrier*, *flight attendant*.
+- Often labeled as "politically correct" but has strong **linguistic motivations**.
+- Informed prescriptivism can clarify this linguistic rationale.
+
+---
+
+## 6. Teaching Implications
+
+### Standard English vs. Non-standard Dialects
+- Example: African American Vernacular English (AAVE)
+  - Rule of **copula deletion** (e.g., *He late*).
+- Teachers with linguistic training:
+  - Better understand student language.
+  - Can bridge dialects and standard forms.
+  - Avoid mislabeling dialect features as “errors.”
+
+---
+
+## 7. Critiques of Linguistics
+
+- Linguists are often accused of “anything goes” attitudes.
+- However, they do not promote chaos:
+  - They seek to explain how language *actually works*.
+  - They support informed decision-making in language use and policy.
+
+---
+
+## Conclusion
+
+Understanding language ideologies involves:
+- Recognizing **linguistic change as natural**.
+- Distinguishing between **describing language** and **prescribing usage**.
+- Advocating for **informed engagement** in public discussions about language norms, education, and inclusivity.
+
+Both **descriptive awareness** and **prescriptive sensitivity** have their place in shaping effective communication.
+
+
