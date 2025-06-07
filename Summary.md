@@ -361,3 +361,57 @@ Both **descriptive awareness** and **prescriptive sensitivity** have their place
   - **Combined theories:** Language as both mental and social product.
 
 ---
+## 2. Noam Chomsky and Competence-Based Linguistics
+
+- Noam Chomsky pioneered generative grammar in the 1950s.  
+- He argued for an innate language faculty — **universal grammar** — shared across all humans.  
+- Challenged behaviorism by showing children produce novel sentences beyond their experience.  
+- Focused on what languages have in common rather than their differences.
+
+---
+
+## 3. Generative Grammar and Linguistic Creativity
+
+- It’s a formal system that describes what we know about language.  
+- From a finite set of rules, we can create infinite sentences — key idea: **creativity**.  
+- Creativity is seen as a defining feature of human language.  
+- This theory revolutionized linguistics and influenced related fields (philosophy, psychology).
+
+---
+
+## 4. Limitations of Competence-Only Models
+
+- This approach concentrates on abstract syntactic structures, usually up to the sentence level.  
+- Generally ignores actual language use or **performance**, treating it as error-prone or irrelevant.  
+- Many linguists argue that ignoring social context and usage limits understanding.
+
+---
+
+## 5. Halliday’s Systemic/Functional Grammar: Combining Competence and Performance
+
+Michael Halliday developed a model integrating both competence and performance.  
+
+- He views language primarily as a communicative tool.  
+- According to him, there are three “metafunctions” of language:  
+  - **1. Ideational:** Expressing experiences and realities via:  
+    - *Material processes* (doing actions),  
+    - *Mental processes* (inner experiences),  
+    - *Relational processes* (classifying, relating).  
+  - **2. Interpersonal:** Language in social interactions; shaped by roles like age, gender, education.  
+  - **3. Textual:** Organizing coherent texts using structure and cohesion (e.g., logical connectors like “therefore”).
+
+---
+
+## 6. Social and Linguistic Contexts in Language Use
+
+- How we use language depends on social factors like age, gender, and education.  
+- Texts have structural unity (e.g., headlines, leads) and cohesion (e.g., connective words like “therefore”).  
+- Functional view highlights how language “does something” within contexts, not just isolated sentences.  
+- Effective communication depends on both linguistic and social context.
+
+---
+
+## Conclusion
+
+A full understanding of language requires combining the study of innate mental structures (**competence**) with an appreciation of social use and context (**performance**). Chomsky’s generative grammar highlights the mental foundations and creativity of language, while Halliday’s systemic/functional approach stresses its communicative functions. Together, these perspectives offer a comprehensive view of how language operates both in the mind and in society.
+
