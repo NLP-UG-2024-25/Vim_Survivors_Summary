@@ -416,6 +416,7 @@ Michael Halliday developed a model integrating both competence and performance.
 A full understanding of language requires combining the study of innate mental structures (**competence**) with an appreciation of social use and context (**performance**). Chomsky’s generative grammar highlights the mental foundations and creativity of language, while Halliday’s systemic/functional approach stresses its communicative functions. Together, these perspectives offer a comprehensive view of how language operates both in the mind and in society.
 
 
+
 # Chapter Summary
 
 ## 1. Diverse Theoretical Perspectives in Linguistics
@@ -470,4 +471,5 @@ A full understanding of language requires combining the study of innate mental s
   4. **Grammatical rules** — from:
      - Full sentences  
      - Down to **individual speech sounds** (phonemes, morphemes, etc.)
+
 
