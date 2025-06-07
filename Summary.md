@@ -50,7 +50,48 @@ Key Topics
 
 - Onomatopoeic and iconic words differ across languages.
 - While some words are iconic, most signs remain **arbitrary across languages**.
-  
+
+---
+
+# The modes of language
+
+## 1. Three primary modes
+
+Signifiers are transmitted in human language through the following modes:
+
+- **Speech**: Primary in linguistics
+- **Writing**: Secondary in linguistics
+- **Signing**: System of communication used by individuals who are deaf
+
+---
+
+## 2. Linguistics
+
+In linguistics, speech is seen as primary because all languages are spoken (unless they’re dead, like Latin), while only some are written. 
+*Example*: Kids naturally learn to speak but need formal education to read and write. 
+However, calling speech "primary" can wrongly make writing seem less important. In reality, speech and writing serve different but **complementary purposes** - like how written contracts are preferred over oral ones due to their permanence and clarity in legal disputes.
+
+## 3. Speech vs. Writing
+
+### a. Speech: Contexts and Advantages
+
+- **Preferred in interactive, real-time settings**:
+  - Casual chats, business transactions, classroom discussions.
+
+- **Key features**:
+  - Immediate feedback: questions and clarifications happen on the spot.
+  - Visual cues: facial expressions, body language.
+  - Intonation adds emotion and emphasis (e.g., sarcasm, excitement).
+  - Produced "on-line" - spontaneous and fast.
+
+### b. Writing: Contrast with Speech:
+
+- **Lacks immediacy** - no instant feedback or reaction.
+- **Emotion and emphasis** limited to punctuation and formatting.
+- Requires **planning**, **editing**, and **time** - more deliberate and polished.
+
+---
+
 # Studying Linguistic Structure
 
 ## 1. The Structure of Language
@@ -207,3 +248,226 @@ Understanding language involves multiple layers:
   - Informed by social roles, relationships, and shared understanding.
 
 Both are essential for a full picture of linguistic behavior.
+
+---
+# Language and Ideology
+
+
+## 1. Prescriptivism vs. Descriptivism in Linguistics
+
+### Prescriptivism
+- Belief in fixed, correct language rules.
+- Aims to **prescribe** how people *should* speak and write.
+- Associated with **reactionary views**, linguistic nostalgia, and elitism.
+- Example: John Simon condemns language change, calling descriptive linguists a "curse."
+
+### Descriptivism
+- Objective observation of how language is actually used.
+- Avoids value judgments.
+- Example: Jean Aitchison argues that language change is **natural** and **inevitable**.
+
+---
+
+## 2. Linguistic Ideologies in Conflict
+
+### John Simon (Reactionary Prescriptivist)
+- Believes language is decaying.
+- Associates correctness with educated elites.
+- Views popular/“uneducated” usage as linguistic decline.
+
+### Jean Aitchison (Descriptivist)
+- Criticizes puristic nostalgia for a mythical “perfect” past form of language.
+- Emphasizes the **logical inconsistency** of trying to freeze language.
+
+---
+
+## 3. Verbal Hygiene
+
+- Term by **Deborah Cameron**: refers to efforts (by both experts and laypeople) to define “good” or “bad” language.
+- Both prescriptivists and descriptivists engage in verbal hygiene, though from different perspectives.
+
+---
+
+## 4. Informed vs. Reactionary Prescriptivism
+
+### Reactionary Prescriptivists
+- Emotionally charged.
+- Offer little to constructive language discussion.
+- Example: Simon's elitist divide between “educated” vs. “uneducated.”
+
+### Informed Prescriptivists
+- Can contribute positively in:
+  - Language policy.
+  - Education.
+  - Public discourse.
+- Recognize that **language norms evolve** but still have communicative and social value.
+
+---
+
+## 5. Gender and Language Change
+
+### Grammatical vs. Natural Gender
+- **Old English**: grammatical gender (arbitrary).
+  - e.g., *hand* (masculine), *pride* (feminine), *body* (neuter).
+- **Modern English**: natural gender based on biological sex.
+  - Pronouns and some job titles reflect this.
+
+### Gender-Neutral Language
+- Shift from *mailman*, *stewardess* → *mail carrier*, *flight attendant*.
+- Often labeled as "politically correct" but has strong **linguistic motivations**.
+- Informed prescriptivism can clarify this linguistic rationale.
+
+---
+
+## 6. Teaching Implications
+
+### Standard English vs. Non-standard Dialects
+- Example: African American Vernacular English (AAVE)
+  - Rule of **copula deletion** (e.g., *He late*).
+- Teachers with linguistic training:
+  - Better understand student language.
+  - Can bridge dialects and standard forms.
+  - Avoid mislabeling dialect features as “errors.”
+
+---
+
+## 7. Critiques of Linguistics
+
+- Linguists are often accused of “anything goes” attitudes.
+- However, they do not promote chaos:
+  - They seek to explain how language *actually works*.
+  - They support informed decision-making in language use and policy.
+
+---
+
+## Conclusion
+
+Understanding language ideologies involves:
+- Recognizing **linguistic change as natural**.
+- Distinguishing between **describing language** and **prescribing usage**.
+- Advocating for **informed engagement** in public discussions about language norms, education, and inclusivity.
+
+Both **descriptive awareness** and **prescriptive sensitivity** have their place in shaping effective communication.
+
+---
+# Theorizing About Language
+
+## 1. Diverse Linguistic Theories
+
+- Linguists have varying ideological views about language.  
+- Three main emphases:  
+  - **Competence-based theories:** Language as a mental property.  
+  - **Performance-based theories:** Language as social use.  
+  - **Combined theories:** Language as both mental and social product.
+
+---
+## 2. Noam Chomsky and Competence-Based Linguistics
+
+- Noam Chomsky pioneered generative grammar in the 1950s.  
+- He argued for an innate language faculty — **universal grammar** — shared across all humans.  
+- Challenged behaviorism by showing children produce novel sentences beyond their experience.  
+- Focused on what languages have in common rather than their differences.
+
+---
+
+## 3. Generative Grammar and Linguistic Creativity
+
+- It’s a formal system that describes what we know about language.  
+- From a finite set of rules, we can create infinite sentences — key idea: **creativity**.  
+- Creativity is seen as a defining feature of human language.  
+- This theory revolutionized linguistics and influenced related fields (philosophy, psychology).
+
+---
+
+## 4. Limitations of Competence-Only Models
+
+- This approach concentrates on abstract syntactic structures, usually up to the sentence level.  
+- Generally ignores actual language use or **performance**, treating it as error-prone or irrelevant.  
+- Many linguists argue that ignoring social context and usage limits understanding.
+
+---
+
+## 5. Halliday’s Systemic/Functional Grammar: Combining Competence and Performance
+
+Michael Halliday developed a model integrating both competence and performance.  
+
+- He views language primarily as a communicative tool.  
+- According to him, there are three “metafunctions” of language:  
+  - **1. Ideational:** Expressing experiences and realities via:  
+    - *Material processes* (doing actions),  
+    - *Mental processes* (inner experiences),  
+    - *Relational processes* (classifying, relating).  
+  - **2. Interpersonal:** Language in social interactions; shaped by roles like age, gender, education.  
+  - **3. Textual:** Organizing coherent texts using structure and cohesion (e.g., logical connectors like “therefore”).
+
+---
+
+## 6. Social and Linguistic Contexts in Language Use
+
+- How we use language depends on social factors like age, gender, and education.  
+- Texts have structural unity (e.g., headlines, leads) and cohesion (e.g., connective words like “therefore”).  
+- Functional view highlights how language “does something” within contexts, not just isolated sentences.  
+- Effective communication depends on both linguistic and social context.
+
+---
+
+## Conclusion
+
+A full understanding of language requires combining the study of innate mental structures (**competence**) with an appreciation of social use and context (**performance**). Chomsky’s generative grammar highlights the mental foundations and creativity of language, while Halliday’s systemic/functional approach stresses its communicative functions. Together, these perspectives offer a comprehensive view of how language operates both in the mind and in society.
+
+
+# Chapter Summary
+
+## 1. Diverse Theoretical Perspectives in Linguistics
+
+- Linguists **share core assumptions** about what language is.
+- However, they differ in **theoretical approaches** to studying it.
+
+---
+
+## 2. Chomskyan Perspective: Language as Mental Competence
+
+- Influenced by **Noam Chomsky**:
+  - Views language as a **product of the human mind**.
+  - Focus is on **linguistic competence**:
+    - The **unconscious, internalized knowledge** of language rules.
+    - Emphasis on what speakers "know" rather than what they "do."
+
+- Goal:
+  - Understand **underlying mental grammar**.
+  - Study language **independently of its use in society**.
+
+---
+
+## 3. Broader Perspective: Language in Social and Textual Contexts
+
+- Some linguists adopt a **more expansive view**:
+  - Language should be studied in **real-world, social contexts**.
+  - Includes:
+    - **Textual structure** (how sentences combine to form meaningful discourse).
+    - **Social use** of language in context.
+
+- Emphasizes:
+  - How people actually **use language** in different settings.
+  - The **structure of communication** beyond isolated sentences.
+
+---
+
+## 4. Focus of This Book
+
+- The book adopts the **social and textual approach** to studying English.
+
+### Key Features of the Approach:
+
+- Recognizes that language is:
+  - A **social phenomenon**.
+  - Used in **contextualized texts**, not just isolated sentences.
+
+- The approach covers:
+  1. **History of the English language** and key concepts in **language change** (next chapter).
+  2. The **social basis of English** — how language use reflects social structures.
+  3. The **structure of texts** — how meaning is constructed across sentences.
+  4. **Grammatical rules** — from:
+     - Full sentences  
+     - Down to **individual speech sounds** (phonemes, morphemes, etc.)
+
