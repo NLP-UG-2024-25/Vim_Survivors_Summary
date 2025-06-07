@@ -415,3 +415,61 @@ Michael Halliday developed a model integrating both competence and performance.
 
 A full understanding of language requires combining the study of innate mental structures (**competence**) with an appreciation of social use and context (**performance**). Chomsky’s generative grammar highlights the mental foundations and creativity of language, while Halliday’s systemic/functional approach stresses its communicative functions. Together, these perspectives offer a comprehensive view of how language operates both in the mind and in society.
 
+
+
+# Chapter Summary
+
+## 1. Diverse Theoretical Perspectives in Linguistics
+
+- Linguists **share core assumptions** about what language is.
+- However, they differ in **theoretical approaches** to studying it.
+
+---
+
+## 2. Chomskyan Perspective: Language as Mental Competence
+
+- Influenced by **Noam Chomsky**:
+  - Views language as a **product of the human mind**.
+  - Focus is on **linguistic competence**:
+    - The **unconscious, internalized knowledge** of language rules.
+    - Emphasis on what speakers "know" rather than what they "do."
+
+- Goal:
+  - Understand **underlying mental grammar**.
+  - Study language **independently of its use in society**.
+
+---
+
+## 3. Broader Perspective: Language in Social and Textual Contexts
+
+- Some linguists adopt a **more expansive view**:
+  - Language should be studied in **real-world, social contexts**.
+  - Includes:
+    - **Textual structure** (how sentences combine to form meaningful discourse).
+    - **Social use** of language in context.
+
+- Emphasizes:
+  - How people actually **use language** in different settings.
+  - The **structure of communication** beyond isolated sentences.
+
+---
+
+## 4. Focus of This Book
+
+- The book adopts the **social and textual approach** to studying English.
+
+### Key Features of the Approach:
+
+- Recognizes that language is:
+  - A **social phenomenon**.
+  - Used in **contextualized texts**, not just isolated sentences.
+
+- The approach covers:
+  1. **History of the English language** and key concepts in **language change** (next chapter).
+  2. The **social basis of English** — how language use reflects social structures.
+  3. The **structure of texts** — how meaning is constructed across sentences.
+  4. **Grammatical rules** — from:
+     - Full sentences  
+     - Down to **individual speech sounds** (phonemes, morphemes, etc.)
+
+
