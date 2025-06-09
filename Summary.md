@@ -4,7 +4,7 @@ Welcome to the **Vim Survivors Summary** project!
 
 ---
 
-## Chapter Summary: Foundational Principles of Linguistics
+## Introduction
 
 This chapter explores the foundational principles of linguistics, with a focus on **language as part of a broader semiotic system** - a system of communication that includes not only human language, but also **gesture, art, music, and dress**. It outlines the **structure of language**, including:
 
@@ -13,7 +13,7 @@ This chapter explores the foundational principles of linguistics, with a focus o
 
 ---
 
-Key Topics
+## Key Topics
 
 ### Unconscious Linguistic Knowledge
 - Native speakers know rules of grammar and politeness **without formal instruction**.
@@ -75,7 +75,7 @@ However, calling speech "primary" can wrongly make writing seem less important. 
 
 ## 3. Speech vs. Writing
 
-### a. **Speech**: Contexts and Advantages
+### **Speech**: Contexts and Advantages
 
 - **Preferred in interactive, real-time settings**:
   - Casual chats, business transactions, classroom discussions.
@@ -86,7 +86,7 @@ However, calling speech "primary" can wrongly make writing seem less important. 
   - Intonation adds emotion and emphasis (e.g., sarcasm, excitement).
   - Produced "on-line" - spontaneous and fast.
 
-### b. **Writing**: Contrast with Speech:
+### **Writing**: Contrast with Speech:
 
 - **Lacks immediacy** - no instant feedback or reaction.
 - **Emotion and emphasis** limited to punctuation and formatting.
@@ -109,12 +109,6 @@ However, calling speech "primary" can wrongly make writing seem less important. 
 
 - Writing isn't always formal:
   - *Example*: Personal letters can be **interactive** - sometimes even more so than some spoken forms.
-
----
-
-## 6. Conclusion
-
-The boundary between speech and writing is not rigid but exists on a continuum shaped by **context**, **purpose**, and **intent**. While speech is often seen as primary and writing as secondary, both serve distinct yet complementary roles. **Interactive features** can appear in both modes depending on how language is used. Ultimately, it is the **function** of communication, not the form, that determines linguistic structure.
 
 ---
 
@@ -153,7 +147,7 @@ Understanding language requires examining both **formal rules** (grammar) and **
 
 ## 3. Levels of Linguistic Structure
 
-### a. **Phonetics and Phonology** (Sound)
+### **Phonetics and Phonology** (Sound)
 
 - Focus on **phonemes** - smallest units of sound that distinguish meaning.
 - Example:
@@ -162,7 +156,7 @@ Understanding language requires examining both **formal rules** (grammar) and **
     - *Killed* → /d/ (voiced following voiced consonant)
     - *Hunted* → /ɪd/ (following /t/ or /d/)
 
-### b. **Morphology** (Word Structure)
+### **Morphology** (Word Structure)
 
 - Focus on **morphemes** - smallest units of meaning.
 - Types:
@@ -172,14 +166,14 @@ Understanding language requires examining both **formal rules** (grammar) and **
   - *Un-* + *happy* = *unhappy*
   - *I* is subject form; *me* is object form.
 
-### c. **Syntax** (Sentence Structure)
+### **Syntax** (Sentence Structure)
 
 - Concerns how words combine into phrases and sentences.
 - Example:
   - *"I broked it"* = Subject (I), Predicate (broked), Object (it)
   - English is an **SVO** language: Subject–Verb–Object order.
 
-### d. **Semantics** (Meaning)
+### **Semantics** (Meaning)
 
 - Studies how meaning is constructed:
   - Across sound, word, and sentence levels.
@@ -261,23 +255,7 @@ Understanding language requires examining both **formal rules** (grammar) and **
 
 ---
 
-## 8. Conclusion
-
-Understanding language involves multiple layers:
-
-- **Structural (Grammar)**:
-  - Phonology, morphology, syntax, semantics.
-  - Describes what speakers know about their language.
-
-- **Contextual (Pragmatics)**:
-  - How language is used appropriately in real-world situations.
-  - Informed by social roles, relationships, and shared understanding.
-
-Both are essential for a full picture of linguistic behavior.
-
----
 # Language and Ideology
-
 
 ## 1. Prescriptivism vs. Descriptivism in Linguistics
 
@@ -366,16 +344,6 @@ Both are essential for a full picture of linguistic behavior.
 
 ---
 
-## Conclusion
-
-Understanding language ideologies involves:
-- Recognizing **linguistic change as natural**.
-- Distinguishing between **describing language** and **prescribing usage**.
-- Advocating for **informed engagement** in public discussions about language norms, education, and inclusivity.
-
-Both **descriptive awareness** and **prescriptive sensitivity** have their place in shaping effective communication.
-
----
 # Theorizing About Language
 
 ## 1. Diverse Linguistic Theories
@@ -387,6 +355,7 @@ Both **descriptive awareness** and **prescriptive sensitivity** have their place
   - **Combined theories**: Language as both mental and social product.
 
 ---
+
 ## 2. Noam Chomsky and Competence-Based Linguistics
 
 - Noam Chomsky pioneered generative grammar in the 1950s.  
@@ -437,13 +406,7 @@ Michael Halliday developed a model integrating both competence and performance.
 
 ---
 
-## Conclusion
-
-A full understanding of language requires combining the study of innate mental structures (**competence**) with an appreciation of social use and context (**performance**). Chomsky's generative grammar highlights the mental foundations and creativity of language, while Halliday's systemic/functional approach stresses its communicative functions. Together, these perspectives offer a comprehensive view of how language operates both in the mind and in society.
-
-
-
-# Chapter Summary
+# Conclusions
 
 ## 1. Diverse Theoretical Perspectives in Linguistics
 
